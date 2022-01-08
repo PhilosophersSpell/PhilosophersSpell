@@ -8,23 +8,23 @@
   - ### [Challenge](#Challenge)
 -->
 
-- ## Who am I?
+## Who am I?
 
-  > ## Web Frontend Developer
-  >
-  > > ### 꾸준한
-  > >
-  > > ### 꼼꼼한
-  > >
-  > > ### 본질을 추구하는
+> ## Web Frontend Developer
+>
+> > ### 꾸준한
+> >
+> > ### 꼼꼼한
+> >
+> > ### 본질을 추구하는
 
-- ## TIL History
+## TIL History
 
-  - ### [Today I Learned History Github Link](https://github.com/PhilosopherProgrammer/TILHistory)
+- ### [Today I Learned History Github Link](https://github.com/PhilosopherProgrammer/TILHistory)
 
-- ## Coding Test Practice
+## Coding Test Practice
 
-  - ### [Coding Test Practice Github Link](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+- ### [Coding Test Practice Github Link](https://github.com/PhilosopherProgrammer/CodingTestPractice)
 
 <!--
 - ## Clone Coding
