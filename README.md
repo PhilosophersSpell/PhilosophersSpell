@@ -1,14 +1,14 @@
 - # Overview
-  - ## [Who am I?](#who-am-I?)
-  - ## [TIL History](#TIL-History)
-  - ## [Coding Test Practice](#Coding-Test-Practice)
+  - ## [Who am I?](#Who_am_I?)
+  - ## [TIL History](#TIL_History)
+  - ## [Coding Test Practice](#Coding_Test_Practice)
 
 <!--
   - ### [Clone Coding](#Clone-Coding)
   - ### [Challenge](#Challenge)
 -->
 
-## Who am I?
+## Who_am_I?
 
 > ## Web Frontend Developer
 >
@@ -18,11 +18,11 @@
 > >
 > > ### 본질을 추구하는
 
-## TIL History
+## TIL_History
 
 - ### [Today I Learned History Github Link](https://github.com/PhilosopherProgrammer/TILHistory)
 
-## Coding Test Practice
+## Coding_Test_Practice
 
 - ### [Coding Test Practice Github Link](https://github.com/PhilosopherProgrammer/CodingTestPractice)
 
