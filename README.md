@@ -1,10 +1,10 @@
-> ## Web Frontend Developer
->
-> > ### 꾸준한
-> >
-> > ### 꼼꼼한
-> >
-> > ### 본질을 추구하는
+- # Web Frontend Developer
+
+  > - ## 꾸준한
+  >
+  > - ## 꼼꼼한
+  >
+  > - ## 본질을 추구하는
 
 - # Overview
   - ## [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
