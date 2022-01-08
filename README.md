@@ -1,15 +1,3 @@
-- # Overview
-  - ## [Who am I?](#Who_am_I?)
-  - ## [TIL History](#TIL_History)
-  - ## [Coding Test Practice](#Coding_Test_Practice)
-
-<!--
-  - ### [Clone Coding](#Clone-Coding)
-  - ### [Challenge](#Challenge)
--->
-
-## Who_am_I?
-
 > ## Web Frontend Developer
 >
 > > ### 꾸준한
@@ -18,9 +6,14 @@
 > >
 > > ### 본질을 추구하는
 
-## TIL_History [[Github Link]]((https://github.com/PhilosopherProgrammer/TILHistory))
+- # Overview
+  - ## [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
+  - ## [Coding Test Practice](https://github.com/PhilosopherProgrammer/CodingTestPractice)
 
-## Coding_Test_Practice [[Github Link]](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+<!--
+  - ### [Clone Coding](#Clone-Coding)
+  - ### [Challenge](#Challenge)
+-->
 
 <!--
 - ## Clone Coding
