@@ -18,13 +18,9 @@
 > >
 > > ### 본질을 추구하는
 
-## TIL_History
+## TIL_History [[Github Link]]((https://github.com/PhilosopherProgrammer/TILHistory))
 
-- ### [Today I Learned History Github Link](https://github.com/PhilosopherProgrammer/TILHistory)
-
-## Coding_Test_Practice
-
-- ### [Coding Test Practice Github Link](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+## Coding_Test_Practice [[Github Link]](https://github.com/PhilosopherProgrammer/CodingTestPractice)
 
 <!--
 - ## Clone Coding
