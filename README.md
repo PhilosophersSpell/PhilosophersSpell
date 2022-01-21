@@ -7,28 +7,13 @@
   > - ## 작은 차이를 끊임없이 추구하는
 
 - # Overview
-  - ## :bulb: [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
-  - ## :bulb: [Coding Test Practice](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+  - ## 💡 [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
+  - ## 💡 [Coding Test Practice](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+  - ## 💡 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
+  - ## 💡 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
 
 <!--
-  - ## Side Project
+  - ## 💡 Side Project
 
-    - ### 💡
-
-  - ## Clone Coding
-
-    - ### 💡
-    - ### 💡
-
-  - ## Challenge
-
-    - ### Frontend Mentor
-      - ### 💡
-    - ### Programmers
-      - ### 💡
-
-  - ## Computer Science
-
-    - ### 💡
-    - ### 💡
+  - ## 💡 Computer Science
 -->
