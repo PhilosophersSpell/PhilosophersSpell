@@ -9,11 +9,10 @@
 - # Overview
   - ## 💡 [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
   - ## 💡 [Coding Test Practice](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+  - ## 💡 [Side Project](https://github.com/PhilosopherProgrammer/Side-Project)
   - ## 💡 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
   - ## 💡 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
 
 <!--
-  - ## 💡 Side Project
-
   - ## 💡 Computer Science
 -->
