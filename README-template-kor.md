@@ -26,7 +26,7 @@ This is the Korean solution for [](). If you want to see the English solution, p
 ### Links
 
 - Live Site URL: :globe_with_meridians: [Add live site URL here](https://your-live-site-url.com)
-- Github URL : :file_cabinet: [Add live site URL here](https://your-live-site-url.com)
+- Github URL : :file_cabinet: [Add github URL here](https://your-live-site-url.com)
 - Solution URL: :crystal_ball: [Add solution URL here](https://your-solution-url.com)
 
 ## My process
