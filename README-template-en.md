@@ -53,7 +53,7 @@ Users should be able to:
 5. Manage development environment, deploy to server
 6. Development for developers
 
-[Source: (테오의 프론트엔드)[https://yozm.wishket.com/magazine/detail/1294/]]
+[Source: [테오의 프론트엔드](https://yozm.wishket.com/magazine/detail/1294/)]
 
 ### Continued development
 

@@ -55,7 +55,7 @@ This is the Korean solution for [](). If you want to see the English solution, p
 5. 개발환경 관리하기, 서버로 배포하기
 6. 개발자들을 위한 개발
 
-[출처: (테오의 프론트엔드)[https://yozm.wishket.com/magazine/detail/1294/]]
+[출처: [테오의 프론트엔드](https://yozm.wishket.com/magazine/detail/1294/)]
 
 ### Continued development
 
