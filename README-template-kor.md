@@ -46,7 +46,16 @@ This is the Korean solution for [](). If you want to see the English solution, p
 
 배운점, 설계 방향, 스크린 샷
 
-![](./screenshot.jpg)
+![frontend flow](./frontend.png)
+
+1. 데이터를 예쁘게 잘 보여주기
+2. 데이터(화면)를 조작하기
+3. 서버로 데이터를 보내기
+4. 서버에서 받은 데이터를 다루기
+5. 개발환경 관리하기, 서버로 배포하기
+6. 개발자들을 위한 개발
+
+[출처: (테오의 프론트엔드)[https://yozm.wishket.com/magazine/detail/1294/]]
 
 ### Continued development
 

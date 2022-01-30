@@ -44,7 +44,16 @@ Users should be able to:
 
 ### What I learned
 
-![](./screenshot.jpg)
+![frontend flow](./frontend.png)
+
+1. Present data beautifully
+2. Manipulating data (screen)
+3. Send data to server
+4. Handling data received from the server
+5. Manage development environment, deploy to server
+6. Development for developers
+
+[Source: (테오의 프론트엔드)[https://yozm.wishket.com/magazine/detail/1294/]]
 
 ### Continued development
 
