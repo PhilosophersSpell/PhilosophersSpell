@@ -7,12 +7,8 @@
   > - ## 작은 차이를 끊임없이 추구하는
 
 - # Overview
-  - ## 💡 [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
-  - ## 💡 [Coding Test Practice](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+  - ## 💡 [TIL](https://github.com/PhilosopherProgrammer/TIL-History)
+  - ## 💡 [Coding Test Practice](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
   - ## 💡 [Side Project](https://github.com/PhilosopherProgrammer/Side-Project)
   - ## 💡 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
   - ## 💡 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
-
-<!--
-  - ## 💡 Computer Science
--->
