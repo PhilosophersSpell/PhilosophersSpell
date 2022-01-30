@@ -44,6 +44,8 @@ Users should be able to:
 
 ### What I learned
 
+![](./screenshot.jpg)
+
 ### Continued development
 
 - Example: Something :white_check_mark:

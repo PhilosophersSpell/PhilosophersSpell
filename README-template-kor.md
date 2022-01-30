@@ -46,6 +46,8 @@ This is the Korean solution for [](). If you want to see the English solution, p
 
 배운점, 설계 방향, 스크린 샷
 
+![](./screenshot.jpg)
+
 ### Continued development
 
 추가하고 싶은 내용 / 추가 기획
