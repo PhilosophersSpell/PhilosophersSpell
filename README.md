@@ -1,30 +1,18 @@
 - # Web Frontend Developer
 
-  > - ## 꾸준한
+  > - ## 기획 중심의
   >
-  > - ## 꼼꼼한
+  > - ## 데이터 이해도가 높은
   >
-  > - ## 본질을 추구하는
+  > - ## 작은 차이를 끊임없이 추구하는
 
 - # Overview
-  - ## [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
-  - ## [Coding Test Practice](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+  - ## 💡 [TIL History](https://github.com/PhilosopherProgrammer/TILHistory)
+  - ## 💡 [Coding Test Practice](https://github.com/PhilosopherProgrammer/CodingTestPractice)
+  - ## 💡 [Side Project](https://github.com/PhilosopherProgrammer/Side-Project)
+  - ## 💡 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
+  - ## 💡 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
 
 <!--
-  - ### [Clone Coding](#Clone-Coding)
-  - ### [Challenge](#Challenge)
--->
-
-<!--
-- ## Clone Coding
-
-  - ###
-  - ###
-
-- ## Challenge
-
-  - ### Frontend Mentor
-    - ####
-  - ### Programmers
-        - ####
+  - ## 💡 Computer Science
 -->
