@@ -8,7 +8,7 @@
 
 - # Overview
   - ## 💡 [TIL](https://github.com/PhilosopherProgrammer/TIL-History)
-  - ## 💡 [Algorithm](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
+  - ## 💡 [Coding Test](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
   - ## 💡 [Side Project](https://github.com/PhilosopherProgrammer/Side-Project)
   - ## 💡 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
   - ## 💡 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
