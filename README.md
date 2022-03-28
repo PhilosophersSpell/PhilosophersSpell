@@ -10,7 +10,5 @@
 
 - # Overview
   - ## 🔆 [TIL](https://github.com/PhilosopherProgrammer/TIL-History)
-  - ## 🔆 [Coding Test](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
-  - ## 🔆 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
-  - ## 🔆 [Side Project](https://github.com/PhilosopherProgrammer/Side-Project)
-  - ## 🔆 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
+  - ## 🔆 [Portfolio](https://github.com/PhilosopherProgrammer/Portfolio)
+  - ## 🔆 [Coding Test Practice](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
