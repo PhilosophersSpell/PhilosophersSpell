@@ -11,4 +11,4 @@
 - # Overview
   - ## 🔆 [TIL](https://github.com/PhilosopherProgrammer/TIL-History)
   - ## 🔆 [Portfolio](https://github.com/PhilosopherProgrammer/Portfolio)
-  - ## 🔆 [Coding Test Practice](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
+  - ## 🔆 [Coding Test](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
