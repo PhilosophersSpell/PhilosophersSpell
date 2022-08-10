@@ -13,3 +13,4 @@
   - ## 🔆 [Coding Test](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
   - ## 🔆 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
   - ## 🔆 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
+  - ## 🔆 [Reading](https://github.com/PhilosopherProgrammer/Reading)
