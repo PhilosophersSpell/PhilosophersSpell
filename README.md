@@ -12,5 +12,5 @@
   - ## 🔆 [TIL-2023](https://github.com/PhilosopherProgrammer/TIL-2023)
   - ## 🔆 [TIL-2022](https://github.com/PhilosopherProgrammer/TIL-History)
   - ## 🔆 [Coding Test](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
-  - ## 🔆 [Challenge](https://github.com/PhilosopherProgrammer/Challenge)
+  - ## 🔆 [Frontend Mentor](https://github.com/PhilosopherProgrammer/FrontendMentor)
   - ## 🔆 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
