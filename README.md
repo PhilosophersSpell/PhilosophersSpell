@@ -1,4 +1,4 @@
-# 🧘‍♂️ 생각하는 프로그래머 💡
+# 🧘‍♂️ 생각하는 개발자 💡
 
 - # Web Frontend Developer
 
