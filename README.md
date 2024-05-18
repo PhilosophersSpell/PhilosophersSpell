@@ -9,6 +9,6 @@
   > - ## 작은 차이를 끊임없이 추구하는
 
 - # Overview
-  - ## 🔆 [Coding Test](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
+  - ## 🔆 [Algorithm](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
   - ## 🔆 [Frontend Mentor](https://github.com/PhilosopherProgrammer/FrontendMentor)
   - ## 🔆 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
