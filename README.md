@@ -1,14 +1,16 @@
 # 🧘‍♂️ 생각하는 개발자 💡
 
-- # Web Frontend Developer
+- # Web Frontend Developer & Creator
 
-  > - ## 기획 중심의
+  > - ## ThreeJS
+  > > - ### [ThreeJS Journey](https://threejs-journey.com/)
+  > > - ### [Three.js로 시작하는 3D 인터랙티브 웹](https://github.com/PhilosopherDev/interactive_web)
+  > > - ### [떠먹는 Three.js](https://github.com/PhilosopherDev/spoon_threejs)
+  > 
+  > - ## 3D Modeling
   >
-  > - ## 데이터 이해도가 높은
+  > - ## Generative Visual AI
   >
-  > - ## 작은 차이를 끊임없이 추구하는
+  > - ## Reading
+  
 
-- # Overview
-  - ## 🔆 [Algorithm](https://github.com/PhilosopherProgrammer/Coding-Test-Practice)
-  - ## 🔆 [Frontend Mentor](https://github.com/PhilosopherProgrammer/FrontendMentor)
-  - ## 🔆 [Clone Coding](https://github.com/PhilosopherProgrammer/Clone-Coding)
