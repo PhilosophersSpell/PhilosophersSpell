@@ -4,7 +4,8 @@
 
   > - ## :atom: ThreeJS
   > > - ### [ThreeJS Journey](https://threejs-journey.com/)
-  > > > - Haunted House [Deployment](https://haunted-house-clone.vercel.app/) [Project](https://github.com/PhilosopherDev/HauntedHouse) 
+  > > > - Haunted House [Deploy](https://haunted-house-clone.vercel.app/) / [History](https://github.com/PhilosophersSpell/HauntedHouse/commits?author=PhilosophersSpell)
+  > > > - Particles [Deploy](https://particles-ebon.vercel.app/) / [History](https://github.com/PhilosophersSpell/Particles/commits?author=PhilosophersSpell)
   > > - ### Three.js로 시작하는 3D 인터랙티브 웹
   > > > - [Project](https://github.com/PhilosopherDev/interactive_web)
   > > - ### 떠먹는 Three.js
