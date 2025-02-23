@@ -6,7 +6,7 @@
   > > - ### [ThreeJS Journey](https://threejs-journey.com/)
   > > > - Haunted House [Result](https://haunted-house-clone.vercel.app/) / [History](https://github.com/PhilosophersSpell/HauntedHouse/commits?author=PhilosophersSpell)
   > > > - Particles [Result](https://particles-ebon.vercel.app/) / [History](https://github.com/PhilosophersSpell/Particles/commits?author=PhilosophersSpell)
-  > > > - Galaxy Generator
+  > > > - Galaxy Generator [Result](https://galaxy-generator-snowy-six.vercel.app/) / [History](https://github.com/PhilosophersSpell/GalaxyGenerator/commits?author=PhilosophersSpell)
   > > - ### Three.js로 시작하는 3D 인터랙티브 웹
   > > > - [Project](https://github.com/PhilosopherDev/interactive_web)
   > > - ### 떠먹는 Three.js
